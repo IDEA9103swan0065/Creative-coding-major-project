@@ -2713,7 +2713,7 @@ let button;
 // Load song
 function preload() {
   song = loadSound(
-    "assets/background-epic-piano-music-for-short-video-vlog-advertising.mp3"
+    "assets/background-epic-piano-music-for-short-video-vlog-advertising.wav"
   );
 }
 // Define the Element class with a constructor and display method
