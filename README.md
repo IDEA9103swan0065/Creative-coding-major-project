@@ -28,4 +28,3 @@ I chose to select to animate my personal code with audio.The length, width and c
    2. then use the amplitude to calculate the radius of the effect range, the element zoom size, and the background colour change value.
    3. finally, for each sub-element object, determine whether the object is in the starting range, if it is in the starting range, then update the object's attribute values (length, width) and update the background colour of the whole pattern (gradually changing to red).
 
-111111
